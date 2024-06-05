@@ -30,33 +30,6 @@ Here is an overview of the key files used in this project:
 - `Transaction.java`: Handles general transactions.
 - `Withdraw.java`: Manages the withdrawal functionality.
 
-## Installation
-
-To install and run this project, follow these steps:
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/Ankit7832/Bank-Management-System.git
-    ```
-
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd Bank-Management-System
-    ```
-
-3. **Compile the Java files:**
-
-    ```bash
-    javac -d bin src/bank_management_system/*.java
-    ```
-
-4. **Run the application:**
-
-    ```bash
-    java -cp bin bank_management_system.Main
-    ```
 
 ## Usage
 
